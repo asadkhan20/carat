@@ -1,1 +1,19 @@
-[{"status":"green","placement":"Placement 1"},{"status":"yellow","placement":"Placement 2"},{"status":"red","placement":"Placement 3"},{"status":"red","placement":"Placement 4"},{"status":"yellow","placement":"Placement 5"},{"status":"red","placement":"Placement 6"},{"status":"red","placement":"Placement 7"},{"status":"yellow","placement":"Placement 8"}]
+{
+    "status": [
+        {
+            "status": "green",
+            "placement": "Placement 1"
+        },
+        {
+            "status": "yellow",
+            "title": "Placement 2"
+        },
+        {
+            "status": "red",
+            "title": "Placement 3"
+        }
+    ],
+    "profile": {
+        "name": "typicode"
+    }
+}
